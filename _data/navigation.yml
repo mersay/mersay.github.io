@@ -1,0 +1,6 @@
+# main menu links
+main:
+  - title: "About"
+    url: https://mersay.github.io
+  - title: "Project"
+    url: /projects/
