@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 #theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes@4.26.2"
+remote_theme            : "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -105,14 +105,14 @@ social:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-D7FSW1DH0G"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
-author:
+author: 
   name             : "Mercedes Lo"
   avatar           : /assets/images/bio-photo.jpeg
   bio              : "Analytical, Independent, Practical"
